@@ -12,7 +12,7 @@ First of the projects in the machine learning area at 42 network. Objective is t
 ## Live Plotting of Training
 ![Screenshots](/pic/LR-Live.gif)
 ## Live Progress of Training from terminal
-![Screenshots](/pic/FT_LINEAR_REGRESSION_TRAINING)
+![Screenshots](/pic/FT_LINEAR_REGRESSION_TRAINING.gif)
 ## Scatter predicted price
 ![Screenshots](/pic/PredictGraph.png)
 
