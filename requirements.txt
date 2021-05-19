@@ -1,0 +1,5 @@
+numpy==1.20.2
+imageio==2.9.0
+matplotlib==3.4.2
+pandas==1.2.4
+reprint==0.6.0
